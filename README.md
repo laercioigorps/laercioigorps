@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @laercioigorps
-- 👀 I’m interested in learning how to create awesome website apps that help people somehow!
-- 🌱 I’m currently learning Django, a python framework for perfectionists with deadlines!! it is a great way to build fast and nice website apps!!
-- 💞️ I’m looking to collaborate on Django CMS
+- 👋 Hi, I’m @laercioigorps, 24 years old. Discovering the beauty(and sometimes not) of the software world
+- 👀 I'm interested in being a great software developer
+- 🌱 I'm currently learning Docker and CI/CI, it really took me in!
+- 💞️ I’m looking to get a software developer job so I can learn even faster!
 <!---- 📫 How to reach me? 
 
 
