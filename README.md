@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laercioigorps, 24 years old, discovering the beauty(and sometimes not) of the software world
+- 👋 Hi, I’m @laercioigorps, 25 years old, discovering the beauty(and sometimes not) of the software world
 - 👀 I'm interested in being a great software developer
 - 🌱 I'm currently learning Docker and CI/CD, it really took me in!
 - 💞️ I’m looking to get a software developer job so I can learn even faster!
